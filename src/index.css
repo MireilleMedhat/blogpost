@@ -1,8 +1,13 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Bad Script', cursive;
+  font-family: 'Berkshire Swash', cursive;
+  font-family: 'Cookie', cursive;
+  font-family: 'Courgette', cursive;
+  font-family: 'Grand Hotel', cursive;
+  font-family: 'Great Vibes', cursive;
+  font-family: 'Neucha', cursive;
+  font-family: 'Satisfy', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
